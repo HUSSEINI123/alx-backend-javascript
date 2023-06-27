@@ -225,8 +225,3 @@ npm run dev ./tests/101-main.js
 1. [npm vs npx — What’s the Difference?](https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/)
 1. [Jestr Getting Started](https://jestjs.io/docs/27.x/getting-started)
 
-
-# :man: Author and Credits.
-This project was done by [Karimi Yvonne](https://github.com/karivone). Feel free to get intouch with me;
-
-:thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
